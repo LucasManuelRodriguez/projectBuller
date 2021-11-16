@@ -29,3 +29,8 @@
     line-height: 24px;
     font-size: 14px;
 }
+@media(min-width:1080px){
+    .us{
+        height: 1540px;
+    }
+}

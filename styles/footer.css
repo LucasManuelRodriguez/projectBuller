@@ -17,3 +17,17 @@ footer{
     font-size: 14px;
     line-height: 21px;
 }
+@media(min-width:1080px){
+    footer{
+        height: 70px;
+    }
+    .footer-box_text{
+        height: 20px;
+    }
+    .footer-text{
+        font-size: 16px;
+    }
+    .space{
+        display: none;
+    }
+}
