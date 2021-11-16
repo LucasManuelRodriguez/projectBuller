@@ -27,3 +27,14 @@
     text-decoration-line: underline;
     cursor: pointer;
 }
+@media(min-width:1080px){
+    .box-title{
+        position: absolute;
+        width: 44.5%;
+        height: 21.3%;
+        top: 20%;
+    }
+    .title-text_verMas{
+        font-weight: 600;
+    }
+}
