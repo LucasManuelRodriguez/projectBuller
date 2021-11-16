@@ -30,9 +30,9 @@
 @media(min-width:1080px){
     .box-title{
         position: absolute;
-        width: 44.5%;
-        height: 21.3%;
-        top: 20%;
+        width: 48%;
+        height: 20%;
+        top: 19.3%;
     }
     .title-text_verMas{
         font-weight: 600;
