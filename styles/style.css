@@ -16,7 +16,6 @@
 @media(min-width:1080px){
     .container{
         max-width: 1440px;
-        height: 2374px;
         position: relative;
     }
 }

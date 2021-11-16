@@ -32,7 +32,7 @@
     .us{
         overflow: hidden;
         padding-top: 5%;
-        height: 1540px;
+        height: 1380px;
         display: grid !important;
         grid-gap:20px;
         grid-template-columns: repeat(4, 1fr);
@@ -54,7 +54,7 @@
     .us-box_tex{
         grid-area: subheader;
         margin-left: 5%;
-        width: 640px;
+        width: 90.5%;
         height: 180px;
         margin-top: -12em;
 
@@ -65,7 +65,8 @@
         font-weight: bold;
     }
     .us-text{
-        font-size: 20px;
+        font-size: 17px;
         line-height: 30px;
+        font-weight: lighter;
     }
 }
