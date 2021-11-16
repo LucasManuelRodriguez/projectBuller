@@ -10,7 +10,6 @@
 @import '/styles/footer.css';
 
 .container{
-    background-color: brown;
     max-width: 449px;
 }
 @media(min-width:1080px){
