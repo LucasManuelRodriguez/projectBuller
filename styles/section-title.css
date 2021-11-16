@@ -35,7 +35,13 @@
         top: 14.98%;
     }
     .box-title_text{
-        width: 75%;
+        width: 100%;
+        margin-left: 5%;
+    }
+    .title-text{
+        font-size: 34px;
+        line-height:49px;
+
     }
     .title-text_verMas{
         font-weight: 600;
