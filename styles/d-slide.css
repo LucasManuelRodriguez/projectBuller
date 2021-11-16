@@ -9,7 +9,7 @@
     background-repeat: no-repeat;
     background-blend-mode: multiply;
     background-position-x: 100%;
-
+    
     display: flex;
     flex-flow: row wrap;
 }
@@ -34,4 +34,14 @@
     width: 25%;
     height: 30%;
     cursor: pointer;
+}
+@media(min-width:1080px){
+    .d-slide{
+        background-image: url('/assets/LATAS big.png'),
+        linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+        background-size: 100vw 90vh;
+    }
+    .box-arrows{
+        display: none;
+    }
 }

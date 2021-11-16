@@ -1,5 +1,6 @@
 header{
     height: 111px;
+    width: 100%;
     position: relative;
     top: 33px;
     display: flex;
@@ -49,4 +50,32 @@ header{
     width: 30px;
     height: 25.72px;
     margin-left: 2.86%;
+}
+@media(min-width:1080px){
+    header{
+        border: 1px solid white;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        margin-top: 1%;
+        height: 55px;
+
+    }
+    .subHeader{
+        width: 50%;
+        align-items: flex-start;
+        justify-content: flex-end;
+
+
+    }
+    .box-socialNetworks{
+        order: 1;
+    }
+    .menu-text{
+        margin-right: 10%;
+
+    }
+    .divider{
+        display: none;
+    }
 }

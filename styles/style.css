@@ -11,6 +11,11 @@
     background-color: brown;
     max-width: 449px;
 }
+@media(min-width:1080px){
+    .container{
+        max-width: 1440px;
+    }
+}
 
 
 
