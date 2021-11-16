@@ -1,4 +1,4 @@
-.us{
+.box-title{
     background-color: white;
     width: 100%;
     height: 330px;
@@ -6,7 +6,7 @@
     flex-flow: row wrap;
     justify-content: center;
 }
-.box-Us_text{
+.box-title_text{
     width: 372px;
     height: 330px;
     display: flex;
@@ -14,12 +14,12 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.us-text{
+.title-text{
     font-family:'Noto Serif', serif;
     font-size: 28px;
     line-height:38.14px;
 }
-.us-text_verMas{
+.title-text_verMas{
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     color: #827264;

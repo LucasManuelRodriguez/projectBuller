@@ -2,11 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
 @import '/styles/d-slide.css';
-@import '/styles/section-us.css';
+@import '/styles/section-title.css';
+@import '/styles/us.css';
 
 .container{
     background-color: brown;
     max-width: 449px;
-    height: 200vh;
+    height: 500vh;
 }
+
+
+
+
+
+
 
