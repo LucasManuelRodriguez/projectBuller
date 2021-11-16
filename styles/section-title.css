@@ -7,7 +7,7 @@
     justify-content: center;
 }
 .box-title_text{
-    width: 372px;
+    width: 85%;
     height: 330px;
     display: flex;
     flex-direction: column;
