@@ -34,6 +34,9 @@
         height: 20%;
         top: 19.3%;
     }
+    .box-title_text{
+        width: 75%;
+    }
     .title-text_verMas{
         font-weight: 600;
     }
