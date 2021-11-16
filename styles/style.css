@@ -5,13 +5,12 @@
 @import '/styles/d-slide.css';
 @import '/styles/section-title.css';
 @import '/styles/us.css';
+@import '/styles/footer.css';
 
 .container{
     background-color: brown;
     max-width: 449px;
-    height: 500vh;
 }
-
 
 
 
