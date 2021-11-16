@@ -1,6 +1,8 @@
 @import '/styles/reset.css';
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
 @import '/styles/d-slide.css';
+@import '/styles/section-us.css';
 
 .container{
     background-color: brown;
@@ -8,8 +10,3 @@
     height: 200vh;
 }
 
-.us{
-    background-color: white;
-    width: 100%;
-    height: 330px;
-}

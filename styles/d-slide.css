@@ -28,8 +28,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 .arrow{
     width: 25%;
     height: 30%;
+    cursor: pointer;
 }
