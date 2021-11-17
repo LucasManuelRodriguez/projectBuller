@@ -224,7 +224,7 @@ header .subHeader .icon-cart {
 @media (min-width: 1080px) {
   .d-slide {
     position: relative;
-    background-image: url(../assets/latas.png), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+    background-image: url("../assets/latas.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
     background-position-x: 55%;
     background-size: 130vw 139vh;
     height: 683px;
