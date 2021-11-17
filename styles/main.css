@@ -152,7 +152,7 @@ header .subHeader .icon-cart {
   height: 441px;
   position: relative;
   overflow: hidden;
-  background-image: url("/assets/LATAS SIX_9 1.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+  background-image: url("./assets/LATAS SIX_9 1.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
   background-repeat: no-repeat;
   background-blend-mode: multiply;
   background-position-x: 100%;
@@ -185,7 +185,7 @@ header .subHeader .icon-cart {
 @media (max-width: 849px) and (orientation: landscape) {
   .d-slide {
     position: relative;
-    background-image: url("/assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+    background-image: url("./assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
     background-position-x: 55%;
     background-size: 130vw 100vh;
     height: 100vh;
@@ -198,7 +198,7 @@ header .subHeader .icon-cart {
 @media screen and (min-width: 450px) and (max-width: 1079px) and (orientation: portrait) {
   .d-slide {
     position: relative;
-    background-image: url("/assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+    background-image: url("./assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
     background-position-x: 55%;
     background-size: 130vw 50vh;
     height: 50vh;
@@ -211,7 +211,7 @@ header .subHeader .icon-cart {
 @media screen and (min-width: 850px) and (max-width: 1079px) and (orientation: landscape) {
   .d-slide {
     position: relative;
-    background-image: url("/assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+    background-image: url("./assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
     background-position-x: 55%;
     background-size: 130vw 90vh;
     height: 75vh;
@@ -224,7 +224,7 @@ header .subHeader .icon-cart {
 @media (min-width: 1080px) {
   .d-slide {
     position: relative;
-    background-image: url("/assets/LATAS big.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
+    background-image: url("../assets/LATAS.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 42.2%);
     background-position-x: 55%;
     background-size: 130vw 139vh;
     height: 683px;
