@@ -29,6 +29,12 @@ nav button:focus{
     }
 }
 
+@media screen and (min-width: 850px) and (max-width: 1079px) and (orientation: landscape){
+    nav{
+        display: flex;
+    }
+}
+
 @media(min-width:1080px){
     nav{
         display: flex;

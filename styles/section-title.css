@@ -48,6 +48,46 @@
     }
 }
 
+@media screen and (min-width: 850px) and (max-width: 1079px) and (orientation: landscape){
+    .box-title{
+        height: 35vh;
+    }
+    .box-title_text{
+        width: 70%;
+        height: 100%;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-content: center;
+    }
+    .title-text{
+        font-size: 24px;
+    }
+    .title-text_verMas{
+        font-size: 14px;
+        font-weight: 600;
+    }
+}
+
+@media screen and (min-width: 450px) and (max-width: 1079px) and (orientation: portrait){
+    .box-title{
+        height: 20vh;
+    }
+    .box-title_text{
+        width: 70%;
+        height: 100%;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-content: center;
+    }
+    .title-text{
+        font-size: 28px;
+    }
+    .title-text_verMas{
+        font-size: 18px;
+        font-weight: 600;
+    }
+}
+
 @media(min-width:1080px){
     .box-title{
         position: absolute;
