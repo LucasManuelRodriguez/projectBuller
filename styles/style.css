@@ -12,6 +12,13 @@
 .container{
     max-width: 449px;
 }
+@media(max-width: 849px) and (orientation: landscape){ 
+    .container{
+        max-width: 1440px;
+        position: relative;
+    }
+}
+
 @media(min-width:1080px){
     .container{
         max-width: 1440px;

@@ -27,6 +27,27 @@
     text-decoration-line: underline;
     cursor: pointer;
 }
+
+@media(max-width: 849px) and (orientation: landscape){ 
+    .box-title{
+        height: 45vh;
+    }
+    .box-title_text{
+        width: 70%;
+        height: 100%;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-content: center;
+    }
+    .title-text{
+        font-size: 20px;
+    }
+    .title-text_verMas{
+        font-size: 10px;
+        font-weight: 600;
+    }
+}
+
 @media(min-width:1080px){
     .box-title{
         position: absolute;
