@@ -487,7 +487,7 @@ nav button:focus {
     font-weight: lighter;
   }
 }
-.slider_pictures {
+#slider_pictures {
   width: 100%;
   height: 300px;
   display: flex;
@@ -517,7 +517,7 @@ nav button:focus {
 }
 
 @media (min-width: 1080px) {
-  .slider_pictures {
+  #slider_pictures {
     display: none;
   }
 

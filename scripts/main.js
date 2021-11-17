@@ -1,0 +1,5 @@
+import { pictures,sliderPictures} from "./date.js";
+import { renderDate } from "./render.js";
+import { loadDate } from "./loadDate.js"; 
+
+loadDate(pictures,renderDate,sliderPictures);

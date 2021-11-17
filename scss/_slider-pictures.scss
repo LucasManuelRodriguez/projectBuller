@@ -1,4 +1,4 @@
-.slider_pictures{
+#slider_pictures{
     width: 100%;
     height: 300px;
     display: flex;
@@ -24,7 +24,7 @@
     display: none;
 }
 @media(min-width:1080px){
-    .slider_pictures{
+    #slider_pictures{
         display: none;
     }
     .box_picture-one{
