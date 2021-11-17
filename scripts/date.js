@@ -1,4 +1,4 @@
-export let pictures =[
+export let picturesMobile =[
     {
         id: 1,    
         src: '/assets/Fabrica_24 3.png',
